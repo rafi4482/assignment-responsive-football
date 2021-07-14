@@ -11,6 +11,9 @@
     display: flex;
     
 }
+.half-width{
+    display: flex;
+}
 
 .half-width img{
     width: 50%;
